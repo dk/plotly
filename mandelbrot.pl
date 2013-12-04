@@ -2,6 +2,8 @@
 #
 # Mandelbrot generation function is courtesy of Xavier Calbet
 # from http://www.freesoftwaremagazine.com/articles/cool_fractals_with_perl_pdl_a_benchmark
+#
+# see result at https://plot.ly/~karasik.dmitry/2/
 
 use strict;
 use warnings;
